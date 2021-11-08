@@ -4,6 +4,8 @@
 #### The purpose of this election audit analysis is to obtain a data set, no matter where it is from and run the python script so that we can analyze the data to see the breakdown of county and candidate total votes and percentage of total votes. It also displays the winer as well.
 
 ##  Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
+Here are the results pulled from the election_results.txt
+![election_results.txt]
 
 ### How many votes were cast in this congressional election?
 ###    Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
